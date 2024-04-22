@@ -5,3 +5,11 @@ This script continuously monitors log files in a specified directory for new ent
 - Monitors log files in real-time for new entries.
 - Counts occurrences of HTTP status codes and error messages.
 - Generates summary reports for HTTP status codes and error messages.
+
+## Requirements
+- Python 3.x
+
+## Installation 
+'''
+code
+'''
