@@ -5,8 +5,8 @@ This script continuously monitors log files in a specified directory for new ent
 ## Features
 
 - Monitors log files in real-time for new entries.
-- Counts occurrences of HTTP status codes and error messages.
-- Generates summary reports for HTTP status codes and error messages.
+- Counts occurrences of warning, info, trace, debug and error messages.
+- Generates summary reports for warning, info, trace, debug and error messages.
 
 ## Requirements
 
@@ -26,11 +26,19 @@ This script continuously monitors log files in a specified directory for new ent
     cd log-file-monitor
     ```
 
-3. Install dependencies:
+3. Install python if not installed:
 
     ```
-    pip install -r requirements.txt
+   py -m pip --version
     ```
+    
+4. Run the script:
+    ```
+   python log_monitor.py
+    ```
+    
+4. Specify the log file path when prompted.
+
 
 ## Usage
 
@@ -44,11 +52,4 @@ This script continuously monitors log files in a specified directory for new ent
 3. The script will continuously monitor the log files and display new entries in real-time.
 4. Press `Ctrl+C` to stop the monitoring process.
 
-## Configuration
 
-- Modify the `log_file` variable in the script to specify the path to your log file(s).
-- You can also customize the list of keywords or patterns to search for in the log files.
-
-## License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
