@@ -52,4 +52,9 @@ This script continuously monitors log files in a specified directory for new ent
 3. The script will continuously monitor the log files and display new entries in real-time.
 4. Press `Ctrl+C` to stop the monitoring process.
 
+   ## How to Test
 
+1. Prepare a sample log file (e.g., `sample.log`) with various log entries containing "error", "info", and "warning" keywords.
+2. Ensure the log file is accessible from the script location.
+3. Follow the usage instructions mentioned above to run the script.
+4. Observe the script's output, including the display of new log entries and keyword counts.
