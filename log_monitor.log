@@ -1,0 +1,207 @@
+2024-04-22 15:07:10,922 - INFO - Monitoring log file: example.log
+2024-04-22 15:07:10,922 - ERROR - Log file 'example.log' not found.
+2024-04-22 15:07:48,328 - INFO - Monitoring log file: example.log
+2024-04-22 15:07:48,330 - ERROR - Log file 'example.log' not found.
+2024-04-22 15:08:09,234 - INFO - Monitoring log file: example.log
+2024-04-22 15:08:09,234 - ERROR - Log file 'example.log' not found.
+2024-04-22 15:08:35,936 - INFO - Monitoring log file: example.log
+2024-04-22 15:08:35,950 - ERROR - Log file 'example.log' not found.
+2024-04-22 16:12:45,433 - INFO - Monitoring log file: example.log
+2024-04-22 16:12:45,433 - ERROR - Log file 'example.log' not found.
+2024-04-22 16:13:15,143 - INFO - Monitoring log file: G:\Project\example.log
+2024-04-22 16:13:15,145 - ERROR - Log file 'G:\Project\example.log' not found.
+2024-04-22 16:30:27,929 - INFO - Monitoring log file: G:\Project\sample.log
+2024-04-22 16:32:13,938 - INFO - 2012-02-03 18:35:34 SampleClass0 [DEBUG] detail for id 645848704
+2024-04-22 16:33:04,206 - INFO - Monitoring stopped by user.
+2024-04-22 16:34:35,855 - INFO - Monitoring log file: G:\Project\sample.log
+2024-04-22 16:35:01,280 - INFO - Monitoring stopped by user.
+2024-04-22 16:39:27,243 - INFO - Monitoring log file: sample.log
+2024-04-22 16:46:15,781 - INFO - Monitoring stopped by user.
+2024-04-22 16:46:23,651 - INFO - Monitoring log file: sample.log
+2024-04-22 16:48:28,647 - INFO - 
+2024-04-22 16:48:34,476 - INFO - 12-02-03 18:35:34 SampleClass0 [DEBUG] detail for id 645848704
+2024-04-22 16:49:11,803 - INFO - 
+2024-04-22 16:49:11,904 - INFO - 2012-02-03 18:35:34 SampleClass0 [DEBUG] detail for id 645848704
+2024-04-22 16:56:25,898 - INFO - Monitoring stopped by user.
+2024-04-22 17:00:32,574 - INFO - Monitoring log file: sample.log
+2024-04-22 17:00:48,691 - INFO - 
+2024-04-22 17:00:48,792 - INFO - 2012-02-03 18:35:34 SampleClass8 [DEBUG] detail for id 2074121310
+2024-04-22 17:00:59,500 - INFO - Monitoring stopped by user.
+2024-04-22 17:01:19,530 - INFO - Monitoring log file: sample.log
+2024-04-22 17:01:28,014 - INFO - 
+2024-04-22 17:01:28,116 - INFO - 2012-02-03 18:35:34 SampleClass0 [ERROR] incorrect id  1886438513
+2024-04-22 17:01:28,218 - INFO - 2012-02-03 18:35:34 SampleClass0 [ERROR] incorrect id  1886438513
+2024-04-22 17:01:28,319 - INFO - 2012-02-03 18:35:34 SampleClass0 [ERROR] incorrect id  1886438513
+2024-04-22 17:01:50,372 - INFO - 
+2024-04-22 17:01:51,883 - INFO - 2012-02-03 18:35:34 SampleClass0 [ERROR] incorrect id  1886438513
+2024-04-22 17:02:09,328 - INFO - 
+2024-04-22 17:02:09,429 - INFO - 2012-02-03 18:35:34 SampleClass0 [HTTP] incorrect id  1886438513
+2024-04-22 17:02:13,360 - INFO - 
+2024-04-22 17:02:13,461 - INFO - 2012-02-03 18:35:34 SampleClass0 [HTTP] incorrect id  1886438513
+2024-04-22 17:02:16,284 - INFO - 
+2024-04-22 17:02:16,385 - INFO - 2012-02-03 18:35:34 SampleClass0 [HTTP] incorrect id  1886438513
+2024-04-22 17:02:19,490 - INFO - Monitoring stopped by user.
+2024-04-22 17:04:37,295 - INFO - Monitoring log file: sample.log
+2024-04-22 17:04:45,648 - INFO - 2024-04-22 10:03:12 - INFO - User logged in
+2024-04-22 17:04:45,751 - INFO - 2024-04-22 10:04:56 - ERROR - Database connection failed: Timeout expired
+2024-04-22 17:04:45,854 - INFO - 2024-04-22 10:05:34 - INFO - HTTP request received: GET /api/data
+2024-04-22 17:04:45,955 - INFO - 2024-04-22 10:06:21 - INFO - HTTP request received: POST /api/data
+2024-04-22 17:04:46,056 - INFO - 2024-04-22 10:07:43 - ERROR - Unable to process request: 404 Not Found
+2024-04-22 17:04:46,158 - INFO - 2024-04-22 10:08:09 - INFO - Application stopped
+2024-04-22 17:07:51,996 - INFO - Monitoring stopped by user.
+2024-04-22 17:09:29,846 - INFO - Monitoring log file: sample.log
+2024-04-22 17:09:34,587 - INFO - 2024-04-22 10:05:34 - INFO - HTTP request received: GET /api/data
+2024-04-22 17:09:34,689 - INFO - 2024-04-22 10:06:21 - INFO - HTTP request received: POST /api/data
+2024-04-22 17:09:38,713 - INFO - Monitoring stopped by user.
+2024-04-22 17:11:54,410 - INFO - Monitoring log file: sample.log
+2024-04-22 17:11:57,827 - INFO - 2024-04-22 10:00:01 - INFO - Application started
+2024-04-22 17:11:57,929 - INFO - 2024-04-22 10:01:23 - ERROR - An error occurred while processing request: 500 Internal Server Error
+2024-04-22 17:11:58,031 - INFO - 2024-04-22 10:02:45 - WARNING - Deprecated function used
+2024-04-22 17:11:58,133 - INFO - 2024-04-22 10:03:12 - INFO - User logged in
+2024-04-22 17:11:58,234 - INFO - 2024-04-22 10:04:56 - ERROR - Database connection failed: Timeout expired
+2024-04-22 17:11:58,336 - INFO - 2024-04-22 10:05:34 - INFO - HTTP request received: GET /api/data
+2024-04-22 17:11:58,438 - INFO - 2024-04-22 10:06:21 - INFO - HTTP request received: POST /api/data
+2024-04-22 17:11:58,539 - INFO - 2024-04-22 10:07:43 - ERROR - Unable to process request: 404 Not Found
+2024-04-22 17:11:58,664 - INFO - 2024-04-22 10:08:09 - INFO - Application stopped
+2024-04-22 17:12:00,894 - INFO - Monitoring stopped by user.
+2024-04-22 17:12:57,260 - INFO - Monitoring log file: sample.log
+2024-04-22 17:13:17,745 - INFO - Monitoring stopped by user.
+2024-04-22 17:18:02,206 - INFO - Monitoring log file: sample.log
+2024-04-22 17:18:32,453 - INFO - 2024-04-22 10:04:56 - ERROR - Database connection failed: Timeout expired
+2024-04-22 17:18:32,556 - INFO - 2024-04-22 10:05:34 - INFO - HTTP request received: GET /api/data
+2024-04-22 17:18:32,658 - INFO - 2024-04-22 10:06:21 - INFO - HTTP request received: POST /api/data
+2024-04-22 17:18:32,759 - INFO - 2024-04-22 10:07:43 - ERROR - Unable to process request: 404 Not Found
+2024-04-22 17:18:32,862 - INFO - 2024-04-22 10:08:09 - INFO - Application stopped
+2024-04-22 17:18:42,278 - INFO - Monitoring stopped by user.
+2024-04-22 17:19:48,396 - INFO - Monitoring log file: sample.log
+2024-04-22 17:20:00,074 - INFO - 
+2024-04-22 17:20:00,175 - INFO - 2024-04-22 10:06:21 - INFO - HTTP request received: POST /api/data
+2024-04-22 17:20:00,276 - INFO - 2024-04-22 10:07:43 - ERROR - Unable to process request: 404 Not Found
+2024-04-22 17:20:00,378 - INFO - 2024-04-22 10:08:09 - INFO - Application stopped
+2024-04-22 17:20:09,217 - INFO - Monitoring stopped by user.
+2024-04-22 17:20:56,773 - INFO - Monitoring log file: sample.log
+2024-04-22 17:21:08,633 - INFO - 
+2024-04-22 17:21:08,734 - INFO - 2024-04-22 10:07:43 - ERROR - Unable to process request: 404 Not Found
+2024-04-22 17:21:08,838 - INFO - 2024-04-22 10:08:09 - INFO - Application stopped
+2024-04-22 17:21:08,944 - INFO - 2024-04-22 10:06:21 - INFO - HTTP request received: POST /api/data
+2024-04-22 17:21:09,046 - INFO - 2024-04-22 10:07:43 - ERROR - Unable to process request: 404 Not Found
+2024-04-22 17:21:09,148 - INFO - 2024-04-22 10:08:09 - INFO - Application stopped
+2024-04-22 17:21:10,928 - INFO - Monitoring stopped by user.
+2024-04-22 17:21:52,381 - INFO - Monitoring log file: sample.log
+2024-04-22 17:21:56,401 - INFO - 
+2024-04-22 17:21:56,502 - INFO - 2024-04-22 10:07:43 - ERROR - Unable to process request: 404 Not Found
+2024-04-22 17:21:56,606 - INFO - 2024-04-22 10:08:09 - INFO - Application stopped
+2024-04-22 17:21:56,707 - INFO - 2024-04-22 10:07:43 - ERROR - Unable to process request: 404 Not Found
+2024-04-22 17:21:56,811 - INFO - 2024-04-22 10:08:09 - INFO - Application stopped
+2024-04-22 17:21:56,921 - INFO - 2024-04-22 10:06:21 - INFO - HTTP request received: POST /api/data
+2024-04-22 17:21:57,022 - INFO - 2024-04-22 10:07:43 - ERROR - Unable to process request: 404 Not Found
+2024-04-22 17:21:57,125 - INFO - 2024-04-22 10:08:09 - INFO - Application stopped
+2024-04-22 17:21:58,389 - INFO - Monitoring stopped by user.
+2024-04-22 17:24:08,333 - INFO - Monitoring log file: sample.log
+2024-04-22 17:24:17,383 - INFO - 
+2024-04-22 17:24:17,485 - INFO - 2024-04-22 10:08:09 - INFO - Application stopped
+2024-04-22 17:24:17,586 - INFO - 2024-04-22 10:07:43 - ERROR - Unable to process request: 404 Not Found
+2024-04-22 17:24:17,693 - INFO - 2024-04-22 10:08:09 - INFO - Application stopped
+2024-04-22 17:24:17,794 - INFO - 2024-04-22 10:07:43 - ERROR - Unable to process request: 404 Not Found
+2024-04-22 17:24:17,897 - INFO - 2024-04-22 10:08:09 - INFO - Application stopped
+2024-04-22 17:24:20,260 - INFO - Monitoring stopped by user.
+2024-04-22 17:30:30,398 - INFO - Monitoring new log file: demo.log
+2024-04-22 17:32:23,994 - INFO - 
+2024-04-22 17:32:24,096 - INFO - 2024-04-22 10:07:43 - ERROR - Unable to process request: 404 Not Found
+2024-04-22 17:32:24,238 - INFO - Monitoring new log file: demo.log
+2024-04-22 17:32:41,335 - INFO - 24-04-22 10:08:09 - INFO - Application stopped
+2024-04-22 17:32:41,437 - INFO - 2024-04-22 10:06:21 - INFO - HTTP request received: POST /api/data
+2024-04-22 17:32:41,538 - INFO - 2024-04-22 10:07:43 - ERROR - Unable to process request: 404 Not Found
+2024-04-22 17:39:18,102 - INFO - Monitoring new log file: demo.log
+2024-04-22 17:39:30,988 - INFO - 24-04-22 10:07:43 - ERROR - Unable to process request: 404 Not Found
+2024-04-22 17:39:31,092 - INFO - 2024-04-22 10:08:09 - INFO - Application stopped
+2024-04-22 17:39:31,193 - INFO - 2024-04-22 10:08:09 - INFO - Application stopped
+2024-04-22 17:39:31,295 - INFO - 
+2024-04-22 17:40:16,687 - INFO - Monitoring of demo.log stopped.
+2024-04-22 17:40:16,688 - INFO - Monitoring new log file: demo1.log
+2024-04-22 17:42:26,805 - INFO - 2024-04-22 10:06:21 - INFO - HTTP request received: POST /api/data
+2024-04-22 17:42:26,907 - INFO - 2024-04-22 10:07:43 - ERROR - Unable to process request: 404 Not Found
+2024-04-22 17:42:27,010 - INFO - 2024-04-22 10:08:09 - INFO - Application stopped
+2024-04-22 17:43:11,732 - INFO - Monitoring of demo1.log stopped.
+2024-04-22 17:43:11,733 - INFO - Monitoring new log file: log_monitor.log
+2024-04-22 17:43:17,604 - INFO - Monitoring of log_monitor.log stopped.
+2024-04-22 17:43:17,605 - INFO - Monitoring new log file: sample.log
+2024-04-22 17:43:33,177 - INFO - 
+2024-04-22 17:43:33,278 - INFO - 2024-04-22 10:08:09 - INFO - Application stopped
+2024-04-22 17:43:33,380 - INFO - 2024-04-22 10:07:43 - ERROR - Unable to process request: 404 Not Found
+2024-04-22 17:43:33,483 - INFO - 2024-04-22 10:08:09 - INFO - Application stopped
+2024-04-22 17:43:33,584 - INFO - 2024-04-22 10:08:09 - INFO - Application stopped
+2024-04-22 17:43:36,371 - INFO - Monitoring of sample.log stopped.
+2024-04-22 17:43:46,373 - INFO - Monitoring new log file: waw.log
+2024-04-22 17:49:18,119 - INFO - 
+2024-04-22 17:49:18,220 - INFO - 2024-04-22 10:07:43 - ERROR - Unable to process request: 404 Not Found
+2024-04-22 17:49:18,322 - INFO - 2024-04-22 10:08:09 - INFO - Application stopped
+2024-04-22 17:49:18,423 - INFO - 2024-04-22 10:08:09 - INFO - Application stopped
+2024-04-22 17:49:19,782 - INFO - Monitoring of waw.log stopped.
+2024-04-22 17:49:23,004 - INFO - Monitoring stopped by user.
+2024-04-22 18:20:32,123 - INFO - Monitoring new log file: demo.log
+2024-04-22 18:20:48,148 - INFO - 24-04-22 10:08:09 - INFO - Application stopped
+2024-04-22 18:20:48,250 - INFO - 2024-04-22 10:07:43 - ERROR - Unable to process request: 404 Not Found
+2024-04-22 18:20:48,361 - INFO - 2024-04-22 10:08:09 - INFO - Application stopped
+2024-04-22 18:20:48,469 - INFO - 2024-04-22 10:08:09 - INFO - Application stopped
+2024-04-22 18:20:48,571 - INFO - 
+2024-04-22 18:20:56,902 - INFO - Monitoring of demo.log stopped.
+2024-04-22 18:20:56,903 - INFO - Monitoring new log file: demo1.log
+2024-04-22 18:21:19,313 - INFO - 
+2024-04-22 18:21:19,415 - INFO - 2024-04-22 10:08:09 - INFO - Application stopped
+2024-04-22 18:21:19,517 - INFO - 2024-04-22 10:07:43 - ERROR - Unable to process request: 404 Not Found
+2024-04-22 18:21:19,620 - INFO - 2024-04-22 10:08:09 - INFO - Application stopped
+2024-04-22 18:21:19,722 - INFO - 2024-04-22 10:08:09 - INFO - Application stopped
+2024-04-22 18:21:35,521 - INFO - Monitoring of demo1.log stopped.
+2024-04-22 18:21:35,522 - INFO - Monitoring new log file: log_monitor.log
+2024-04-22 18:21:48,890 - INFO - Monitoring of log_monitor.log stopped.
+2024-04-22 18:21:48,891 - INFO - Monitoring new log file: sample.log
+2024-04-22 18:28:40,748 - INFO - Monitoring of sample.log stopped.
+2024-04-22 18:28:40,750 - INFO - Monitoring new log file: waw.log
+2024-04-22 18:28:48,214 - INFO - Monitoring of waw.log stopped.
+2024-04-22 18:28:48,791 - INFO - Monitoring stopped by user.
+2024-04-22 18:29:21,545 - INFO - Monitoring log file: sample.log
+2024-04-22 18:29:30,019 - INFO - 
+2024-04-22 18:29:30,121 - INFO - 2024-04-22 10:08:09 - INFO - Application stopped
+2024-04-22 18:29:30,224 - INFO - 2024-04-22 10:07:43 - ERROR - Unable to process request: 404 Not Found
+2024-04-22 18:29:30,328 - INFO - 2024-04-22 10:08:09 - INFO - Application stopped
+2024-04-22 18:29:30,430 - INFO - 2024-04-22 10:08:09 - INFO - Application stopped
+2024-04-22 18:34:09,513 - INFO - Monitoring stopped by user.
+2024-04-23 14:42:37,120 - INFO - Monitoring log file: sample.log
+2024-04-23 14:42:47,736 - INFO - 
+2024-04-23 14:42:47,844 - INFO - 2024-04-22 10:08:09 - INFO - Application stopped
+2024-04-23 14:42:47,945 - INFO - 2024-04-22 10:07:43 - ERROR - Unable to process request: 404 Not Found
+2024-04-23 14:42:48,047 - INFO - 2024-04-22 10:08:09 - INFO - Application stopped
+2024-04-23 14:42:48,148 - INFO - 2024-04-22 10:08:09 - INFO - Application stopped
+2024-04-23 14:46:48,048 - INFO - Monitoring stopped by user.
+2024-04-23 14:46:50,988 - INFO - Monitoring log file: sample.log
+2024-04-23 14:47:07,783 - INFO - Monitoring stopped by user.
+2024-04-23 14:47:11,941 - INFO - Monitoring log file: sample.log
+2024-04-23 14:47:37,612 - INFO - 
+2024-04-23 14:47:37,715 - INFO - 03/22 08:51:06 INFO   :....mailbox_register: mailbox allocated for rsvp
+2024-04-23 14:47:37,827 - INFO - 03/22 08:51:06 INFO   :.....mailslot_create: creating mailslot for RSVP via UDP
+2024-04-23 14:47:37,941 - INFO - 03/22 08:51:06 WARNING:.....mailslot_create: setsockopt(MCAST_ADD) failed - EDC8116I Address not available.
+2024-04-23 14:47:38,044 - INFO - 03/22 08:51:06 INFO   :....mailbox_register: mailbox allocated for rsvp-udp
+2024-04-23 14:47:43,067 - INFO - Monitoring stopped by user.
+2024-04-23 14:59:52,134 - INFO - Monitoring log file: sample.log
+2024-04-23 15:00:10,519 - INFO - Monitoring stopped by user.
+2024-04-23 15:04:21,626 - INFO - Monitoring log file: sample.log
+2024-04-23 15:04:27,963 - INFO - 
+2024-04-23 15:04:28,066 - INFO - 2012-02-03 19:11:02 SampleClass3 [TRACE] verbose detail for id 808347545
+2024-04-23 15:04:28,169 - INFO - 2012-02-03 19:11:02 SampleClass3 [DEBUG] detail for id 1743263073
+2024-04-23 15:04:28,272 - INFO - 2012-02-03 19:11:02 SampleClass3 [TRACE] verbose detail for id 456059562
+2024-04-23 15:04:28,406 - INFO - 2012-02-03 19:11:02 SampleClass0 [DEBUG] detail for id 1359045794
+2024-04-23 15:04:33,604 - INFO - Monitoring stopped by user.
+2024-04-23 15:05:34,788 - INFO - Monitoring log file: sample.log
+2024-04-23 15:05:39,727 - INFO - 
+2024-04-23 15:05:39,830 - INFO - # Move the pointer to the end of the file
+2024-04-23 15:05:47,393 - INFO - verbose detail for id 808347545
+2024-04-23 15:05:47,495 - INFO - 2012-02-03 19:11:02 SampleClass3 [DEBUG] detail for id 1743263073
+2024-04-23 15:05:47,597 - INFO - 2012-02-03 19:11:02 SampleClass3 [TRACE] verbose detail for id 456059562
+2024-04-23 15:05:47,699 - INFO - 2012-02-03 19:11:02 SampleClass0 [DEBUG] detail for id 1359045794
+2024-04-23 15:06:15,501 - INFO - Monitoring stopped by user.
+2024-04-23 15:06:18,326 - INFO - Monitoring log file: sample.log
+2024-04-23 15:06:25,785 - INFO - 2012-02-03 19:11:02 SampleClass3 [TRACE] verbose detail for id 808347545
+2024-04-23 15:06:25,889 - INFO - 2012-02-03 19:11:02 SampleClass3 [DEBUG] detail for id 1743263073
+2024-04-23 15:06:25,992 - INFO - 2012-02-03 19:11:02 SampleClass3 [TRACE] verbose detail for id 456059562
+2024-04-23 15:06:26,095 - INFO - 2012-02-03 19:11:02 SampleClass0 [DEBUG] detail for id 1359045794
